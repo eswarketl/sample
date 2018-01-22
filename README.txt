@@ -1,3 +1,3 @@
-Movie Ratings Scraper project
+Data visualization tags counts 
 
-Take the movie name, it's rating and score
+No. of topics and no. of visits for each topic
